@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1081712540258",
+    "firebase_url": "https://firb-ja-educate.firebaseio.com",
+    "project_id": "firb-ja-educate",
+    "storage_bucket": "firb-ja-educate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081712540258:android:392d2916958cfae22b2f3b",
+        "android_client_info": {
+          "package_name": "com.JaEducate.JA_Educate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081712540258-hjmn6fkh2fenvj3i886dve13332dk67t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoWD1aapUAFGJGJS1eLflltJs7vt9Dn7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081712540258-hjmn6fkh2fenvj3i886dve13332dk67t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
